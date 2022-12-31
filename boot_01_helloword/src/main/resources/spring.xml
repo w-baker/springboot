@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="dog" class="pers.rain.boot.bean.Pet">
+		<property name="name" value="dog"/>
+	</bean>
+
+	<bean id="wang" class="pers.rain.boot.bean.User">
+		<property name="name" value="wang"/>
+		<property name="id" value="1"/>
+		<property name="pet" ref="dog"/>
+ 	</bean>
+</beans>

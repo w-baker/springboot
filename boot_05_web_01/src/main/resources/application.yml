@@ -1,0 +1,11 @@
+spring:
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true # 开启页面表单的rest风格
+  #    static-path-pattern: /res/**  # 配置资源访问路径，导致欢迎页失效
+
+  web:
+    resources:
+      static-locations: classpath:/resources/  # 配置资源路径
+#      add-mappings: false

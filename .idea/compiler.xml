@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boot_01_helloword" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot" target="1.8" />
+      <module name="boot_01_helloword" target="1.8" />
+      <module name="boot_01_helloword_02" target="1.8" />
+      <module name="boot_druid" target="1.8" />
+      <module name="boot_junit" target="1.8" />
+      <module name="boot_mybatis" target="1.8" />
+      <module name="boot_mybatis_plus" target="1.8" />
+      <module name="boot_SSMP" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

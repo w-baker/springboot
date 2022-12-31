@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0603f385-f6a4-4dfa-8a62-247064cff060" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/boot_01_helloword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/java/pers/rain/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/java/pers/rain/boot/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/java/pers/rain/boot/bean/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/java/pers/rain/boot/bean/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/java/pers/rain/boot/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/java/pers/rain/boot/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/java/pers/rain/boot/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/resources/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword_02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword_02/src/main/java/pers/rain/bean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword_02/src/main/java/pers/rain/bean/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword_02/src/main/java/pers/rain/boot/Boot01Helloword02Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword_02/src/main/java/pers/rain/boot/personController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword_02/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword_02/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_01_helloword_02/src/test/java/pers/rain/boot/Boot01Helloword02ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/java/pers/rain/boot/ApplicationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/java/pers/rain/boot/config/Webconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/java/pers/rain/boot/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/java/pers/rain/boot/controller/ParameterTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/resources/META-INF/resources/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/resources/public/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/resources/resources/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/resources/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/resources/static/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_05_web_01/src/test/java/com/example/Boot05Web01ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/SSMApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/bean/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/config/MPConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/crontroller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/crontroller/BookController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/crontroller/utils/ProjectExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/crontroller/utils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/mapper/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/service/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/java/pers/rain/service/impl/BookServiceImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/js/axios-0.18.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/pages/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/elementui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/elementui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/test/java/pers/rain/BootSsmpApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/test/java/pers/rain/mapper/BookMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/test/java/pers/rain/service/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_SSMP/src/test/java/pers/rain/service/BookServiceTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_druid/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_druid/src/main/java/pers/rain/BootDruidApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_druid/src/main/java/pers/rain/bean/TBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_druid/src/main/java/pers/rain/bean/TBookExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_druid/src/main/java/pers/rain/mapper/TBookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_druid/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_druid/src/main/resources/pers/rain/mapper/TBookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_druid/src/test/java/pers/rain/BootDruidApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_junit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_junit/src/main/java/pers/rain/BootJunitApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_junit/src/main/java/pers/rain/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_junit/src/main/java/pers/rain/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_junit/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_junit/src/test/java/pers/BootJunitApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis/src/main/java/pers/rain/BootMybatisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis/src/main/java/pers/rain/bean/TBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis/src/main/java/pers/rain/bean/TBookExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis/src/main/java/pers/rain/mapper/TBookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis/src/main/resources/pers/rain/mapper/TBookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis/src/test/java/pers/rain/BootMybatisApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis_plus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis_plus/src/main/java/pers/rain/BootMybatisPlusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis_plus/src/main/java/pers/rain/bean/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis_plus/src/main/java/pers/rain/mapper/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis_plus/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_mybatis_plus/src/test/java/pers/rain/BootMybatisPlusApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Developmwnt Tools/maven/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Developmwnt Tools\maven\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Jf1JYhYgGfPWCFOJBOaTbBDtYP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/ProjectCode/Java/springboot/boot_SSMP",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ProjectCode\Java\springboot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="ApplicationMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot_05_web_01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.rain.boot.ApplicationMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot01Helloword02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot_01_helloword_02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.rain.boot.Boot01Helloword02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootDruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot_druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.rain.BootDruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootJunitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot_junit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.rain.BootJunitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.rain.BootMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootMybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot_mybatis_plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.rain.BootMybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot_01_helloword" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.rain.boot.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSMApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot_SSMP" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pers.rain.SSMApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0603f385-f6a4-4dfa-8a62-247064cff060" name="Changes" comment="" />
+      <created>1672454253935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672454253935</updated>
+      <workItem from="1672454256491" duration="473000" />
+      <workItem from="1672454956418" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
